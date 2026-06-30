@@ -1,2 +1,3 @@
-# ORDERS-REPORT
+# ORDERS-REPORT (https://datastudio.google.com/reporting/c059e4c7-a92b-4757-b21c-97e3e1138cd6)
 Developed a web-based, interactive Orders Report Dashboard using Google Looker Studio to centralize, visualize, and analyze multi-regional e-commerce retail distribution and customer purchasing patterns. The platform processes thousands of line items to track key performance indicators (KPIs) and streamline business intelligence operations.
+<img width="1530" height="880" alt="{326C6336-6153-4266-8376-1EC4D07B84D4}" src="https://github.com/user-attachments/assets/a9362228-86c3-45c0-af09-e837d3890263" />
